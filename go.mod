@@ -1,4 +1,4 @@
-module github.com/juankpaniagua/faastest
+module github.com/juankpaniagua/fasstest
 
 go 1.13
 
